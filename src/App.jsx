@@ -1,0 +1,1 @@
+export default function App(){return <div>NexusCore Solutions Production Starter</div>}
